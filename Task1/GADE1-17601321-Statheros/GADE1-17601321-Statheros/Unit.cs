@@ -9,6 +9,7 @@ namespace GADE1_17601321_Statheros
 
     //17601321 Nicholas Statheros
     //Unique code : Sazu0
+    //main Unit class
     class Unit
     {
         protected int XPosition;

@@ -8,9 +8,8 @@ namespace GADE1_17601321_Statheros
 {
     static class Program
     {
-        /// <summary>
-        /// The main entry point for the application.
-        /// </summary>
+       
+    
         [STAThread]
         static void Main()
         {
